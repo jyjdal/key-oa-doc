@@ -1,2 +1,2 @@
 # key-oa-doc
-Ducumentations for KeyOA project.
+Documentation for KeyOA project.
